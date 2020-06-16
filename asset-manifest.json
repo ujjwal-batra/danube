@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/.github.io/danube/static/css/main.24e39de4.chunk.css",
+    "main.js": "/.github.io/danube/static/js/main.b9b1c935.chunk.js",
+    "main.js.map": "/.github.io/danube/static/js/main.b9b1c935.chunk.js.map",
+    "runtime-main.js": "/.github.io/danube/static/js/runtime-main.76451ea4.js",
+    "runtime-main.js.map": "/.github.io/danube/static/js/runtime-main.76451ea4.js.map",
+    "static/js/2.356ddda8.chunk.js": "/.github.io/danube/static/js/2.356ddda8.chunk.js",
+    "static/js/2.356ddda8.chunk.js.map": "/.github.io/danube/static/js/2.356ddda8.chunk.js.map",
+    "index.html": "/.github.io/danube/index.html",
+    "precache-manifest.6fbf43eafefca5e16b89d424ebc55bff.js": "/.github.io/danube/precache-manifest.6fbf43eafefca5e16b89d424ebc55bff.js",
+    "service-worker.js": "/.github.io/danube/service-worker.js",
+    "static/css/main.24e39de4.chunk.css.map": "/.github.io/danube/static/css/main.24e39de4.chunk.css.map",
+    "static/js/2.356ddda8.chunk.js.LICENSE.txt": "/.github.io/danube/static/js/2.356ddda8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76451ea4.js",
+    "static/js/2.356ddda8.chunk.js",
+    "static/css/main.24e39de4.chunk.css",
+    "static/js/main.b9b1c935.chunk.js"
+  ]
+}
